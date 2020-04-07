@@ -20,4 +20,4 @@ Aloqador Blog post- https://jumabek.wordpress.com/2020/04/05/deep-work-chuqur-fa
 
 ## Buni manosi:
 ### Agar hozir qilayotgan aqliy mehnatingizni 37 marta samarador qilsangiz maoshingiz yoki biznes foydangiz kamida 37 marta ortadi degani.
-O'ylab koring hozirgi oylik 500$ kuniga 1% o'sish bn 1 yildan keyin 500*37= 18,500$ oylik olasiz/olaman.
+### O'ylab koring hozirgi oylik 500$ kuniga 1% o'sish bn 1 yildan keyin 500*37= 18,500$ oylik olasiz/olaman.

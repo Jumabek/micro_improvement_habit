@@ -6,14 +6,12 @@ Aloqador Blog post- https://jumabek.wordpress.com/2020/04/05/deep-work-chuqur-fa
 
 ## O'sish ko'rsatkichlari:
 <li>
-100% dan 113% ga - Agar Siz har oy atiga 1% samaradorlikni oshirsangiz, yil oxiriga kelib ayni holatingizdagidan 113% ko'p ishni bir xil vaqtda bajara olasiz
+100% dan 113% ga - Har oy atiga 1% samaradorlikni o'sish
 </li>
 <li>
-100% dan 168% ga - Agar 1% samaradorlikni oshirni haftasiga bajara olsangiz, yil oxiriga kelib ayni holatingizdagidan 168% ko'p ishni bir xil vaqtda bajara olasiz
-</li>
+100% dan 168% ga - Har hafta 1% o'sish </li>
 <li>
-100% dan 3778% ga - Agar har kuni samaradorligingizni 1% o'stirsangiz yil oxiriga kelib ayni holatingizdagidan 3778% ko'p ishni bir xil vaqtda bajara olasiz
-</li>
+100% dan 3778% ga - Har kun 1% o'sish </li>
 
 ## Code https://github.com/Jumabek/micro_improvement_habit/blob/master/Proof%20of%20Concept%20.ipynb
 

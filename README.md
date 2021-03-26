@@ -2,16 +2,16 @@
 
 Aloqador Blog post- https://jumabek.wordpress.com/2020/04/05/deep-work-chuqur-faoliyat-bilan-samaradorlik-oshirish/ uchun Proof-of-concept 
 
-## Har kunlik kichkina o'sish orqali katta natijaga erishish
+## Doimiy kichik o'sish orqali uzoq muddatli katta natijaga erishish
 
-## O'sish ko'rsatkichlari:
+## Samaradorlikni kuniga/haftasiga/oyiga 1% oshirishni 1 yildagi natijasi:
 <li>
-100% dan 113% ga - Har oy atiga 1% samaradorlikni o'sish
+100% dan 113% ga - oyiga 1% ga rivojlansangiz
 </li>
 <li>
-100% dan 168% ga - Har hafta 1% o'sish </li>
+100% dan 168% ga - agar haftasiga 1% o'sishni uddalasangiz </li>
 <li>
-100% dan 3778% ga - Har kun 1% o'sish </li>
+100% dan 3778% ga - agar kuniga 1% o'sishga erisholsangiz </li>
 
 ## Code https://github.com/Jumabek/micro_improvement_habit/blob/master/Proof%20of%20Concept%20.ipynb
 
